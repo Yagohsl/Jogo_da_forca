@@ -81,7 +81,7 @@ int main()
     	printf("\nDigite um valor válido\n");
 	}
     if(erro == 6){
-	    printf("\nVocê perdeu!\nA palavra era = %s",resp);
+	    printf("\nVocê perdeu!\nA palavra era = %s\n",resp);
 	}else
 	  printf("\n%s\n",palAtual);
     }
